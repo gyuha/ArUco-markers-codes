@@ -70,7 +70,7 @@ def create_marker_pdf():
     marker_size = 40 * 2
     
     # 여백 설정 (pt)
-    margin = 20  # 마진 더 줄임
+    margin = 50  # 마진 더 줄임
     
     # 그리드 설정 - 4x4 유지
     grid_rows = 4
