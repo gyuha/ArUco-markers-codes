@@ -52,3 +52,6 @@ python marker_print.py
 - `requirements.txt`: 필요한 패키지 목록
 - `markers/`: 생성된 마커 이미지가 저장되는 폴더
 - `print/`: 생성된 PDF가 저장되는 폴더 
+
+## 참조
+- [JS-ARUCO2](https://github.com/damianofalcioni/js-aruco2?tab=readme-ov-file)
